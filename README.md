@@ -1,7 +1,7 @@
 # VChanger
 [![discord_rpc](https://img.shields.io/badge/JOIN-DISCORD%20SERVER-blue)](https://discord.gg/2RTnsYGDWd) ![discord_rpc](https://img.shields.io/badge/USING-DISCORD%20RPC-blue)
 
-![VChanger_banner](data/images/ValoGuard_banner.png  "VChanger")
+![VChanger_banner](data/images/banner.png  "VChanger")
 
 Customise your game!
 
@@ -17,8 +17,10 @@ Customise your game!
 ![VChanger_RPC 2](data/images/rpc_background.png  "VChanger")
 ### Status: Custom voice lines
 ![VChanger_RPC 3](data/images/rpc_voicelines.png  "VChanger")
+
 ## Custom background
-https://user-images.githubusercontent.com/42284544/216765540-2151a795-5bab-448f-ad5c-d93dbaca79d3.mp4
+https://user-images.githubusercontent.com/42284544/216765943-a2161b4c-ace0-4db3-93ec-6d13ed625cfb.mp4
+
 
 
 
