@@ -3,7 +3,7 @@
 
 ![VChanger_banner](data/images/banner.png  "VChanger")
 
-Customise your game!
+# Customise your game!
 
   
 # Preview
@@ -34,9 +34,9 @@ https://user-images.githubusercontent.com/42284544/216765943-a2161b4c-ace0-4db3-
   
 
 # Usage
-    1. Download VChanger from the latest [releases](https://github.com/OfficialQode/VChanger/releases/tag/Latest)
-    2. Execute `VChanger.exe`
-    3. Use the menu to choose between custom background and voice lines
+1. Download VChanger from the latest [releases](https://github.com/OfficialQode/VChanger/releases/tag/Latest)
+2. Execute `VChanger.exe`
+3. Use the menu to choose between custom background and voice lines
     
 # Guides
 
