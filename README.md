@@ -4,6 +4,7 @@
 ![VChanger_banner](data/images/banner.png  "VChanger")
 
 # Customise your game!
+##### Make any video your Valorant main menu background or use your favourite language for voice lines and keep the text language in english using VChanger!
 
   
 # Preview
